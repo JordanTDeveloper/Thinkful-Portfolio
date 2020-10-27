@@ -1,1 +1,2 @@
-# Thinkful-portfolio
+# portfolio-page
+This is my portfolio page
